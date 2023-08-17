@@ -2,10 +2,10 @@
 ## 介绍
 y轴刻度优化算法，用于echarts图表y轴刻度优化，使得图表更美观
 
-> 使用前![](E:\Code\echarts\public\before.png)
+> 使用前![](https://github.com/kamiponcloud/echart-extreme/blob/master/public/before.png)
 > 图表无法限制最小刻度，小数处理不行，刻度不均匀
 
-> 使用后![](E:\Code\echarts\public\after.png)
+> 使用后![](https://github.com/kamiponcloud/echart-extreme/blob/master/public/after.png)
 > y轴左右两边刻度线均匀并且重叠，同时最小间隔值可以动态设置。也可以做到小数位数统一，如下
 
 ## 使用
